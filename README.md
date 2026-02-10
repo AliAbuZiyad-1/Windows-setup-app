@@ -8,4 +8,7 @@ Tbh the only thing this app can do is:
 
 ### If you tried my app, its actually bad but let me know how i did on my first ever app with almost no knowledge about C# which takes way to long to troubleshoot and stuff but hey probably won't use it
 
-**WARNING**: this app can format so make sure your data is safe, and tbh i dont even trust it so use with caution
+**⚠️ DISCLAIMER ⚠️**
+This application is provided "as-is" for educational/testing purposes only
+I am not responsible for any damages/data loss/corruption that happens when using the application
+Use this application at your own risk!
