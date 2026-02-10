@@ -7,7 +7,7 @@ You can run it anywhere in Windows PE or a live Windows environment that has som
 - **Fix My PC**: literally just runs command prompt. Doesn’t work if your os doesnt have cmd.exe at system directory
 - **Select Image File & Edition**: choose a Windows image to install kinda basic
 - **Partitioning**: pick a volume to install on, Only works if the volume has a drive letter (Because im lazy), You cant format, create, or resize partitions  (Advanced users can use the “Fix My PC” button and DiskPart if needed because i dont care about the app anymore)  
-- **Installing Phase**: installs Windows Logs exist for debugging, probably useless
+- **Installing Phase**: installs Windows, Logs exist for debugging, probably useless
 
 ## Notes
 - This is my first ever app, built with absolutely no knowledge of C#
